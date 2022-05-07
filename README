@@ -1,0 +1,11 @@
+This mod allows players to harvest a crop and plant the item the player is holding with a single right-click.
+
+It supports the following crops from mcl_farming and mcl_nether:
+
+* Beetroot
+* Carrot
+* Potato
+* Wheat
+* Nether Wart
+
+I have tested it with Mineclonia, so it should work with MineClone2 or MineClone5.
